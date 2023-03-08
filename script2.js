@@ -81,7 +81,7 @@ while (nbRepas <= 13) {
 var bouton = document.getElementById("bouton");
 
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World!";
+    document.getElementById("demo").innerHTML = "Salut les potos!";
 }
 bouton.addEventListener("click", myFunction, false)
 
